@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1189868556 source:d:\softwarestudy_final\softwarestudy\c_primer_plus\cprimerplus\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506604620 source:d:\softwarestudy_final\softwarestudy\c_primer_plus\chapter10\day_mon1.c
+	<stdio.h>
+
