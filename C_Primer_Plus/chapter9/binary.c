@@ -1,4 +1,4 @@
-/* binary.c -- prints integer in binary form */
+/* binary.c -- prints integer in binary form!!! */
 #include "stdio.h"
 void to_binary(unsigned long n);
 
